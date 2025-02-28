@@ -10,9 +10,6 @@ dist/
 # Archivos de configuración de TypeScript
 tsconfig.json
 
-# Archivos del código fuente
-src/
-
 # Archivos de gestión de paquetes
 package.json
 package-lock.json
